@@ -586,6 +586,7 @@ config SMB1360
 	tristate "Qualcomm SMB1360 charger and fuel gauge"
 	depends on I2C
 	depends on OF
+	depends on REGULATOR
 	select REGMAP_I2C
 	help
 	  Say Y to enable support for Qualcomm SMB1360 charger and fuel gauge.

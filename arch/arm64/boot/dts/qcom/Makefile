@@ -28,7 +28,6 @@ dtb-$(CONFIG_ARCH_QCOM)	+= msm8916-samsung-j5nlte.dtb
 dtb-$(CONFIG_ARCH_QCOM)	+= msm8916-wingtech-wt86518.dtb msm8916-wingtech-wt86518-modem.dtb
 dtb-$(CONFIG_ARCH_QCOM)	+= msm8916-wingtech-wt86528.dtb msm8916-wingtech-wt86528-modem.dtb
 dtb-$(CONFIG_ARCH_QCOM)	+= msm8916-wingtech-wt88047.dtb msm8916-wingtech-wt88047-modem.dtb
-dtb-$(CONFIG_ARCH_QCOM)	+= msm8916-handsome-openstick.dtb
 dtb-$(CONFIG_ARCH_QCOM)	+= msm8992-bullhead-rev-101.dtb
 dtb-$(CONFIG_ARCH_QCOM)	+= msm8992-msft-lumia-octagon-talkman.dtb
 dtb-$(CONFIG_ARCH_QCOM)	+= msm8992-xiaomi-libra.dtb
